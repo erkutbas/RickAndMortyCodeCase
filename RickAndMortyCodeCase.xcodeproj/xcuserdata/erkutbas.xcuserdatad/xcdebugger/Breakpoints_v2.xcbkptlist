@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5699C73B-E6D4-4666-93FE-D750C90DAD79"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1005BBC-581F-4E3A-B57E-FBBD1F3A8B64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/RickAndMortyCodeCase-eqsizgdndubgylcxkrbxqcgkvxrk/SourcePackages/checkouts/RMNetworkLayer/Sources/RMNetworkLayer/Modules/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "responseParser(alamofireResponseData:single:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A1005BBC-581F-4E3A-B57E-FBBD1F3A8B64 - 9aef024f94875631"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RMNetworkLayer.ApiManager.responseParser&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(alamofireResponseData: Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;, single: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMortyCodeCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkutbas/Library/Developer/Xcode/DerivedData/RickAndMortyCodeCase-eqsizgdndubgylcxkrbxqcgkvxrk/SourcePackages/checkouts/RMNetworkLayer/Sources/RMNetworkLayer/Modules/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+               <Location
+                  uuid = "A1005BBC-581F-4E3A-B57E-FBBD1F3A8B64 - 9aef024f94875631"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RMNetworkLayer.ApiManager.responseParser&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(alamofireResponseData: Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;, single: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RickAndMortyCodeCase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkutbas/Library/Developer/Xcode/DerivedData/RickAndMortyCodeCase-eqsizgdndubgylcxkrbxqcgkvxrk/SourcePackages/checkouts/RMNetworkLayer/Sources/RMNetworkLayer/Modules/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11ED861F-C2FB-4F32-B325-C5D6017AB952"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/RickAndMortyCodeCase-eqsizgdndubgylcxkrbxqcgkvxrk/SourcePackages/checkouts/RMNetworkLayer/Sources/RMNetworkLayer/Modules/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "responseParser(alamofireResponseData:single:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "187F5625-2FF8-4CEC-A311-1EFC47560877"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/RickAndMortyCodeCase-eqsizgdndubgylcxkrbxqcgkvxrk/SourcePackages/checkouts/RMNetworkLayer/Sources/RMNetworkLayer/Modules/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "responseParser(alamofireResponseData:single:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F71ED02B-9AE6-4949-94A8-213C65B3470F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/RickAndMortyCodeCase-eqsizgdndubgylcxkrbxqcgkvxrk/SourcePackages/checkouts/RMDomainLayer/Sources/RMDomainLayer/CharacterListOperations/Models/RickAndMortyCharacterResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4373E66E-7454-4C42-9BA9-5AC61C18DAA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/RickAndMortyCodeCase-eqsizgdndubgylcxkrbxqcgkvxrk/SourcePackages/checkouts/RMDomainLayer/Sources/RMDomainLayer/CharacterListOperations/Models/RickAndMortyCharacterResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
