@@ -1,0 +1,86 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "354dda32d89fc8cd4f5c46487f64957d355f53d8",
+        "version" : "5.6.1"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "4a6058cbbdfe4f74aeae92c8bd51ad3b0de2a1ee",
+        "version" : "3.3.0"
+      }
+    },
+    {
+      "identity" : "rmdatalayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/erkutbas/RMDataLayer.git",
+      "state" : {
+        "revision" : "8c9682f75dc0640fafc382b6e3cf6a7b3177f16f",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "rmdomainlayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/erkutbas/RMDomainLayer.git",
+      "state" : {
+        "revision" : "1111942279b90db3d6cdd452f26ddc111944c216",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "rmnetworkentitylayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/erkutbas/RMNetworkEntityLayer.git",
+      "state" : {
+        "revision" : "0921a1c439afbab5c27f22a728e4a7619f4c7c33",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "rmnetworklayer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/erkutbas/RMNetworkLayer.git",
+      "state" : {
+        "revision" : "26a4e6231ede170b3d28a1819f56d8fdbcdfa5bf",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+        "version" : "6.5.0"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "f10b6e9ebff440f985c43008f7c2d097639fcb81",
+        "version" : "2.8.1"
+      }
+    },
+    {
+      "identity" : "swinjectautoregistration",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/SwinjectAutoregistration.git",
+      "state" : {
+        "revision" : "9936170fd1a5e8c141a21de987c48cc4e0d6c943",
+        "version" : "2.8.1"
+      }
+    }
+  ],
+  "version" : 2
+}
